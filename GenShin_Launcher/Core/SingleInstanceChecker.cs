@@ -10,6 +10,7 @@ namespace Genshin_Launcher
     /// </summary>
     internal class SingleInstanceChecker
     {
+
         private readonly string uniqueEventName;
         private EventWaitHandle? eventWaitHandle;
 
