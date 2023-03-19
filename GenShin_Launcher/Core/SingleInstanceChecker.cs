@@ -5,6 +5,7 @@ using System.Windows;
 
 namespace Genshin_Launcher
 {
+
     /// <summary>
     /// 单例程序检查器
     /// </summary>
